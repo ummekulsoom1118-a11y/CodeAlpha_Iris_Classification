@@ -16,6 +16,11 @@ This project uses Machine Learning to classify iris flowers into three species:
 ## 📈 Result
 The model achieved high accuracy in predicting flower species.
 
+## 📊 Output
+
+✔ Model Accuracy: 1.0 (100%)  
+✔ Sample Prediction: Iris Setosa
+
 ## 📌 Conclusion
 This project demonstrates basic classification using machine learning.
 
